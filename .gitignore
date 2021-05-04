@@ -1,0 +1,19 @@
+Temp/
+obj/
+Logs/
+.vs/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+Unity.Postprocessing.Editor.csproj
+Unity.Postprocessing.Runtime.csproj
+*.apk
+*.csproj
+[Ll]ibrary/
+Recordings/
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
